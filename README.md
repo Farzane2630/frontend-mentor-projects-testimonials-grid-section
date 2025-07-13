@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/frontend-mentor-projects-social-links-WxRR6w7WRl)
-- [Live Site URL](https://frontend-mentor-projects-four-cards.vercel.app/)
+- [Live Site URL](https://frontend-mentor-projects-testimonia.vercel.app/)
 
 ## My process
 
